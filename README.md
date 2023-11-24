@@ -1,4 +1,4 @@
-# Movie Search App 🎥
+# Movie Search - Anroid Application 🎥
 
 ## Overview 🌟
 This Android application allows users to search for movies. Utilizing the IMDb API, it fetches and displays information about movies. Users can enter a movie title in the search field, and the app presents a list of relevant movies, complete with details like title, description, and image.
